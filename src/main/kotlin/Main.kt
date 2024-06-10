@@ -1,6 +1,11 @@
-import ArraysHashing.Easy.isAnagram
+import ArraysHashing.Medium.EncodeDecodeStrings
+import ArraysHashing.Medium.productExceptSelf
 
 fun main() {
 
-
 }
+
+
+
+
+
