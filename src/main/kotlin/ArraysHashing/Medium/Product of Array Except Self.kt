@@ -18,4 +18,3 @@ fun productExceptSelf(nums: IntArray): IntArray {
 
     return result
 }
-
